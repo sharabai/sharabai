@@ -1,4 +1,4 @@
-### Sergey Sharabai
+### Sergei Sharabai
 
 Full-stack engineer at [Software Mansion](https://swmansion.com), Kraków. I build React Native and Next.js apps in TypeScript, with Node.js on the backend. Open to B2B projects.
 
