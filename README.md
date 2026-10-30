@@ -15,4 +15,4 @@ TypeScript · React · React Native · Next.js · Node.js · Express · MongoDB 
 
 #### Contact
 
-sharabai.sergei@gmail.com · [LinkedIn](https://www.linkedin.com/in/serhii-sharabai-518481247)
+sharabai.sergei@gmail.com · [LinkedIn](https://www.linkedin.com/in/sergei-sharabai-518481247)
